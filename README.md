@@ -1,5 +1,5 @@
 Hi, I'm John Fulgoni (@JFulgoni). I am a software developer originally from Long Island, NY currently living in Northern Virginia. 
-I currently work at Mastercard as a Senior Software Development Engineer working on microservices using Java and SQL.
+I currently work at Mastercard as a Senior Software Engineer working on microservices using Java, SQL and Angular.
 I graduated from Columbia University in 2016 with a Master of Science degree in Computer Science, 
 and graduated Cum Laude from Villanova University in 2014 with a Bachelor of Science in Computer Engineering. 
 
